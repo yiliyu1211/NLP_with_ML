@@ -5,7 +5,7 @@ This repository contains the data cleaning and algorithms for DonorsChoose.org.
 ## Data Cleaning
 
 This section contains all the files related to cleaning the data.
-- [original_files](https://www.kaggle.com/c/donorschoose-application-screening)
+- [Sample_files](https://www.kaggle.com/c/donorschoose-application-screening)
 - [text_cleaning](text_cleaning/text.ipynb)
   - Word2Vec
   - TF-IDF
