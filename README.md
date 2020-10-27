@@ -1,5 +1,7 @@
 # Predictive-Analytics
 
+Utilize machine learning models to help facilitate the application approval process.
+
 This repository contains the data cleaning and algorithms for DonorsChoose.org. 
 
 ## Data Cleaning
